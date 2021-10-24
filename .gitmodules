@@ -1,0 +1,9 @@
+[submodule "heat-server"]
+	path = heat-server
+	url = https://github.com/matosgabriel/heat-server.git
+[submodule "heat-web"]
+	path = heat-web
+	url = https://github.com/matosgabriel/heat-web.git
+[submodule "heat-mobile"]
+	path = heat-mobile
+	url = https://github.com/matosgabriel/heat-mobile.git
